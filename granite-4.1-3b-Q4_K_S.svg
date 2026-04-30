@@ -1,0 +1,15 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pelican -->
+  <path fill="#8B4513" stroke="#8B4513" stroke-width="4" d="M150,80 Q200,120 250,80"/>
+  <circle cx="180" cy="90" r="20" fill="#FFFFFF"/>
+  <path fill="#000000" d="M180,90 Q190,105 185,115"/>
+  <path fill="#000000" d="M185,115 Q180,120 170,120"/>
+  
+  <!-- Bicycle -->
+  <path fill="#FFFFFF" d="M100,150 Q150,200 200,150"/>
+  <path fill="#000000" d="M100,150 Q150,100 200,150"/>
+  
+  <!-- Interaction -->
+  <path fill="#8B4513" d="M180,120 Q190,140 185,150"/>
+  
+</svg>

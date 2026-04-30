@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <desc>Repaired preview extracted from the UD-IQ2_M model response.</desc>
+  <rect x="0" y="0" width="400" height="300" fill="#f5a9b2"/>
+  <circle cx="90" cy="92" r="20" stroke-width="4" stroke="#333c8d" fill="#ffffff" fill-opacity=".7"/>
+  <polygon points="120,70 210,115 115,160" fill="#333c8d" opacity=".75"/>
+  <g transform="rotate(45 120 140)" stroke="#333c8d" fill="none" stroke-width="4">
+    <circle cx="120" cy="205" r="36"/>
+    <circle cx="230" cy="205" r="36"/>
+    <path d="M120 205 L170 145 L230 205 L175 205 Z"/>
+    <line x1="170" y1="145" x2="210" y2="118"/>
+    <line x1="210" y1="118" x2="238" y2="118"/>
+  </g>
+  <text x="200" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#333c8d">Pelican Rides!</text>
+</svg>

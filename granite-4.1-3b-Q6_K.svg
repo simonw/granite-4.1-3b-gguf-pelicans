@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Pelican -->
+  <path fill="#8B4513" stroke="black" stroke-width="2" d="M50,80 Q100,120 150,80"/>
+  <circle cx="75" cy="70" r="10" fill="white"/>
+  <path fill="white" d="M70,85 Q75,95 80,85"/>
+  <path fill="white" d="M90,85 Q85,95 80,85"/>
+  
+  <!-- Bicycle -->
+  <path fill="none" stroke="black" stroke-width="2" d="M80,20 Q120,20 160,80 Q180,120 140,120"/>
+  <circle cx="120" cy="80" r="10" fill="black"/>
+  <circle cx="160" cy="80" r="10" fill="black"/>
+  
+  <!-- Combined -->
+  <!-- Adjustments needed for pelican on bicycle -->
+  <!-- This is a placeholder for the pelican's position on the bicycle. You would need to adjust the paths or add additional paths to position the pelican realistically on the bicycle. -->
+</svg>
