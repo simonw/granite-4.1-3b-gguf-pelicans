@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="-240 -120 360 260">
+  <desc>Repaired preview extracted from the UD-Q2_K_XL model response.</desc>
+  <rect x="-240" y="-120" width="360" height="260" rx="18" fill="#f4e1c8"/>
+  <g stroke="#333" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-150 70 C-130 30 -230 -40 -30 -30 S150 60 -90 30" fill="#f8f8f8"/>
+    <ellipse cx="-35" cy="50" rx="30" ry="22" fill="orange"/>
+    <circle cx="-45" cy="55" r="15" fill="white"/>
+    <circle cx="-50" cy="52" r="4" fill="#333" stroke="none"/>
+    <path d="M-150 80 C-130 40 -270 -30 40 -20 S110 50 -90 40" fill="none"/>
+    <line x1="-200" y1="-65" x2="100" y2="-65"/>
+    <line x1="-180" y1="-45" x2="-70" y2="-65"/>
+    <line x1="-70" y1="-65" x2="10" y2="-45"/>
+    <line x1="-180" y1="-45" x2="10" y2="-45"/>
+    <circle cx="-180" cy="-45" r="28" fill="white"/>
+    <circle cx="10" cy="-45" r="28" fill="white"/>
+    <ellipse cx="-25" cy="85" rx="30" ry="12" fill="#555"/>
+    <rect x="-220" y="-55" width="10" height="50" fill="#666" stroke="none"/>
+  </g>
+</svg>

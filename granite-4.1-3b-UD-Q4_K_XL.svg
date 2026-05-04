@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Pelican -->
+  <path fill="#8B4513" stroke="#8B0000" stroke-width="4" d="M50,80 Q75,100 100,80 Q125,60 150,80 Q175,100 150,120 Q125,140 100,120 Q75,100 50,80 Z"/>
+  <!-- Beak -->
+  <path fill="#FFFFFF" d="M60,60 Q70,70 80,60 Q90,50 100,60 Q110,70 120,60 Q130,50 140,60 Q150,70 140,80"/>
+  <!-- Wings -->
+  <path fill="#C0C0C0" d="M80,30 Q85,20 100,30 Q115,40 120,30 Q125,20 140,30 Q155,40 150,50"/>
+  <path fill="#C0C0C0" d="M120,30 Q115,20 100,30 Q85,40 80,30 Q75,20 60,30 Q45,40 50,50"/>
+  <!-- Bicycle -->
+  <rect fill="#FFFFFF" x="100" y="70" width="20" height="40"/>
+  <circle fill="#000000" cx="110" cy="90" r="5"/>
+  <!-- Handlebars -->
+  <circle fill="#000000" cx="110" cy="80" r="8"/>
+  <!-- Pedals -->
+  <path fill="#8B0000" d="M115,100 Q120,110 125,100"/>
+  <path fill="#8B0000" d="M115,90 Q120,80 125,90"/>
+  <!-- Seat -->
+  <rect fill="#8B0000" x="105" y="110" width="10" height="10"/>
+</svg>
