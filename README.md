@@ -2,6 +2,8 @@
 
 This project ran the same prompt against each of the quantized models in [unsloth/granite-4.1-3b-GGUF](https://huggingface.co/unsloth/granite-4.1-3b-GGUF). You can see the resulting SVGs at [simonw.github.io/granite-4.1-3b-gguf-pelicans/](https://simonw.github.io/granite-4.1-3b-gguf-pelicans/).
 
+Here's the [Codex transcript](https://gisthost.github.io/?d56cc7d112673a063a818de7529dbe89) used to create these files.
+
 *Following text was written by GPT-5.5 and Code CLI:*
 
 ----
